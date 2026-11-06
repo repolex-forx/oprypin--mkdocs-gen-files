@@ -1,0 +1,11 @@
+{
+  "org": "oprypin",
+  "repo": "mkdocs-gen-files",
+  "versions": [
+    {
+      "commit": "d13bd16bdfa74d48b24e7a62bcbf8c8a10613757",
+      "tag": "",
+      "parsed_at": "2026-11-06T02:13:05.778778+00:00"
+    }
+  ]
+}
