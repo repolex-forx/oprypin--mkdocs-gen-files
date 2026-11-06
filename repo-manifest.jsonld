@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/oprypin/mkdocs-gen-files/commit/d13bd16bdfa74d48b24e7a62bcbf8c8a10613757",
       "git:hexsha": "d13bd16bdfa74d48b24e7a62bcbf8c8a10613757",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/oprypin/mkdocs-gen-files/commit/9733c1d7cad2767c5ba4e58251f0e0c16c35c867",
