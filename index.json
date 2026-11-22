@@ -3,6 +3,11 @@
   "repo": "mkdocs-gen-files",
   "versions": [
     {
+      "commit": "05c38bb46caa8d6550da54e291bddc59c4610d07",
+      "tag": "v0.6.1",
+      "parsed_at": "2026-11-22T00:29:37.044026+00:00"
+    },
+    {
       "commit": "d13bd16bdfa74d48b24e7a62bcbf8c8a10613757",
       "tag": "",
       "parsed_at": "2026-11-06T02:13:05.778778+00:00"
