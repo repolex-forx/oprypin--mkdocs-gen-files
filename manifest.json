@@ -125,7 +125,9 @@
           "githubUrl": "https://github.com/properdocs/properdocs",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/05c38bb46caa8d6550da54e291bddc59c4610d07/chunk-001.nq.gz",
+      "dep": "dep/05c38bb46caa8d6550da54e291bddc59c4610d07.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
